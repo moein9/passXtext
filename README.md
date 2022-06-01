@@ -1,4 +1,6 @@
 # passXtest
+![My Image](/icon//128x128_2.png)
+
 changing password field to text, to see your password
 
 a simple extention to change password field to text to see your password
