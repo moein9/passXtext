@@ -1,5 +1,11 @@
-# passXtest
-![My Image](/icon//128x128_2.png)
+<h1> <p align="center">
+ passXtest
+</p>       </h1>                                                      
+
+<p align="center" width="100%">
+    <img width="13%" src="/icon//128x128_2.png"> 
+</p>
+
 
 changing password field to text, to see your password
 
