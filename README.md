@@ -9,6 +9,8 @@
 
 changing password field to text, to see your password
 
+one of the most useless projects I did :), but I always wanted something like this to be available as an extension.
+
 a simple extention to change password field to text to see your password
 
 #### extention on chrome webstore https://chrome.google.com/webstore/detail/passxtext/ihfifaefpdcchkgelhhmfioikcmhakif
